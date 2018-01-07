@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/ouph/study-fd3-git.svg?branch=master)](https://travis-ci.org/ouph/study-fd3-git)
 # 깃 스터디
 ## h2
 ### h3
